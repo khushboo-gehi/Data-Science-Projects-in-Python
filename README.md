@@ -1,1 +1,3 @@
-# Python-Machine Learning-Deep Learning
+Python
+-Machine Learning
+-Deep Learning
