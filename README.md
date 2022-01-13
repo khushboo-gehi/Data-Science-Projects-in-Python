@@ -1,3 +1,1 @@
-Python
--Machine Learning
--Deep Learning
+Machine Learning and Deep Learning research work in Python. 
