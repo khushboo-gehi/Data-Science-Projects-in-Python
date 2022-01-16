@@ -1,1 +1,1 @@
-Machine Learning and Deep Learning research in Python. 
+Machine Learning and Deep Learning in Python
