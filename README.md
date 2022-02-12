@@ -6,4 +6,4 @@ Projects in Python:
 
 3. Scraping text from LinkedIn newsletter - [Source code](https://github.com/khushboo-gehi/Py-ML-DL/blob/main/Scrape_.ipynb), [Description](https://khushboo-gehi.medium.com/scraping-data-off-the-web-a5cb6677cc69)
 
-4. 
+
