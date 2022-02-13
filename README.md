@@ -1,4 +1,3 @@
-Projects in Python:
 
 1. Basic Chatbot using NLTK - [Source code](https://github.com/khushboo-gehi/Py-ML-DL/blob/main/Basic_chatbot_implementation_.ipynb), [Project description](https://khushboo-gehi.medium.com/a-not-so-perfect-chatbot-2de0040adb16)
 
