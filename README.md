@@ -5,4 +5,5 @@
 
 3. Scraping text from LinkedIn newsletter - [Source code](https://github.com/khushboo-gehi/Py-ML-DL/blob/main/Scrape_.ipynb), [Description](https://khushboo-gehi.medium.com/scraping-data-off-the-web-a5cb6677cc69)
 
+4. Hierarchical & K-means Clustering - [description](https://khushboo-gehi.medium.com/hierarchical-k-means-clustering-e67070713dca) , Source codes - [k-means](https://github.com/khushboo-gehi/Data-Science-Projects-in-Python/blob/main/KMeansClustering.ipynb) , [hierarchical](https://github.com/khushboo-gehi/Data-Science-Projects-in-Python/blob/main/CustomerSegmentation_Python.ipynb)
 
